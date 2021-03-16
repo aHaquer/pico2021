@@ -11,7 +11,7 @@ picoCTF{xxsh_
 Avhieved flag 2/3 just by going to / directory and catting out 2of3.flag.txt
 0ut_0f_\/\/4t3r_
 
-Achieed flag 3/3 just by going to ~ directory and catting out 3of3.flag.txt
+Achieved flag 3/3 just by going to ~ directory and catting out 3of3.flag.txt
 540e4e79}
 
 **picoCTF{xxsh_0ut_0f_\/\/4t3r_540e4e79}**

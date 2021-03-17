@@ -4,8 +4,6 @@ We download a binary.
 
 ![binary](https://github.com/aHaquer/pico2021/blob/main/pics/Warm.png)
 
-![binary](https://github.com/aHaquer/pico2021/blob/main/pics/Firstpic.png)
-
 To run it, give it executable permissions 
 
 ![binary](https://github.com/aHaquer/pico2021/blob/main/pics/Firstpic.png)

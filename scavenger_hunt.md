@@ -12,3 +12,5 @@ As I was looking around the webpage I started up gobuster to check for directori
 from /robots.txt we are greeted with part 3 of our flag: t_0f_pl4c
 
 I found part 4 of the flag by using gobuster with the common.txt wordlist: 3s_2_lO0k
+
+The prompt to find part 5 of the flag had to do with storing lots of information so I googled mac database files and came up with the conclusion .ds_store: _74cceb07}

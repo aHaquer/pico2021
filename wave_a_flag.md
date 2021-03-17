@@ -2,15 +2,15 @@
 
 We download a binary.
 
-![binary](https://github.com/aHaquer/pico2021/blob/main/pics/Warm.png)
+**warm**
 
 To run it, give it executable permissions 
 
-![binary](https://github.com/aHaquer/pico2021/blob/main/pics/Firstpic.png)
+![binary](pics/Firstpic.png)
 
 Use the -h the next time you run it
 
-![run again](https://github.com/Pyrus369/hello-world/blob/main/Final.png)
+![run again](pics/Final.png)
 
 You got the flag
 

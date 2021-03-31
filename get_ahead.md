@@ -1,8 +1,6 @@
 # Get Ahead
  Solved by Pyrus
 
-**picoCTF{r3j3ct_th3_du4l1ty_70bc61c4}**
-
 > Find the flag being held on this server to get ahead of the competition http://mercury.picoctf.net:28916/
 
 As Pyrus pointed out, the name GET aHEAD implies some kind of interaction with the HEAD which is a method in HTTP.

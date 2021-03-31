@@ -1,6 +1,5 @@
 # Nice Netcat
 Solved by aHaquer
-**picoCTF{g00d_k1tty!_n1c3_k1tty!_3d84edc8}**
 
 > There is a nice program that you can talk to by using this command in a shell: $ nc mercury.picoctf.net 49039, but it doesn't speak English...
 

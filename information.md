@@ -3,8 +3,6 @@
 This challenge was the worst bullshit.
 To susie, I would like to personally say, "fuck you."
 
-**picoCTF{the_m3tadata_1s_modified}**
-
 > Files can always be changed in a secret way. Can you find the flag? cat.jpg
 
 We can use exiftool to see the metadata

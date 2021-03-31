@@ -1,7 +1,6 @@
-Weird File Writeup
+# Weird File Writeup
 
-The Challenge Description Is: 
-What could go wrong if we let Word documents run programs? (aka "in-the-clear"). Download file.
+> What could go wrong if we let Word documents run programs? (aka "in-the-clear"). Download file.
 
 I have no fucking idea what in-the-clear means, but I do know that Word docs run macros in the background 
 sometimes. The DefCon talk in the hint also suggests thats the issue. (https://www.youtube.com/watch?v=Y7IJjnLGqTQ)

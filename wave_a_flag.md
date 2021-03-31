@@ -1,5 +1,7 @@
 # Wave a Flag
 
+> Can you invoke help flags for a tool or binary? This program has extraordinarily helpful information...
+
 We download a binary.
 
 **warm**

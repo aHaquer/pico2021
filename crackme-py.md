@@ -1,5 +1,6 @@
 # Crackme-py
 Solved by Skuzi
+> crackme.py
 
 **picoCTF{1|\/|_4_p34|\|ut_a79b6c2d}**
 

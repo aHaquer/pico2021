@@ -1,6 +1,6 @@
-Description
+# Scavenger Hunt
 
-There is some interesting information hidden around this site http://mercury.picoctf.net:55079/. Can you find it?
+> There is some interesting information hidden around this site http://mercury.picoctf.net:55079/. Can you find it?
 
 So we have been told a website with information hidden, so the first thing I did was checked the source code of the page.
 

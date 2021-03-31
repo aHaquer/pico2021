@@ -1,4 +1,6 @@
-Speeds And Feeds
+# Speeds And Feeds
+
+> There is something on my shop network running at nc mercury.picoctf.net 33596, but I can't tell what it is. Can you?
 
 This one starts off with being given an address and a port
 Netcat time
@@ -14,4 +16,6 @@ write up credit for educating me)
 Running the G-CODE through a simulator (Such as the one below) presents the flag,
 which is objectively unique and cool
 https://ncviewer.com/
-picoCTF{num3r1cal_c0ntr0l_68a8fe29}
+
+
+**picoCTF{num3r1cal_c0ntr0l_68a8fe29}**

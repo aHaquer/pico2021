@@ -1,4 +1,6 @@
-![image](pics/Cookies1.png)
+# Cookies
+
+> Who doesn't love cookies? Try to figure out the best one. http://mercury.picoctf.net:64944/
 
 You're greeted with a webpage where you can enter commands and click a button to search, whatever you type it returns
 

@@ -1,4 +1,5 @@
 # Wireshark doo dooo do doo...
+Solved by aHaquer and Skuzi
 
 > Can you find the flag? shark1.pcapng.
 

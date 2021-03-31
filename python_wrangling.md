@@ -1,6 +1,7 @@
 # Python Wrangling 
-**picoCTF{4p0110_1n_7h3_h0us3_68f88f93}**
+Solved by aHaquer
 
+> Python scripts are invoked kind of like programs in the Terminal... Can you run this Python script using this password to get the flag?
 
 We're given a python file, a flag file, and a password file.
 

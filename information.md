@@ -1,7 +1,7 @@
 # information
+Solved by aHaquer
 
 This challenge was the worst bullshit.
-To susie, I would like to personally say, "fuck you."
 
 > Files can always be changed in a secret way. Can you find the flag? cat.jpg
 
